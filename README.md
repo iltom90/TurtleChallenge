@@ -18,7 +18,7 @@ Open folder /Release and double click on TurtleChallenge.exe.
 Follow the instruction of application
 
 NB.: The application also take 2 parameters (path settings file and moves file). To use this function
-	 open command prompt and browse to the application folder and write TurtleChallenge.exe <path settings> <path moves>
+	 open command prompt and browse to the application folder and write TurtleChallenge.exe < path settings > < path moves >
 
 ## Open Visual Studio Solution
 
