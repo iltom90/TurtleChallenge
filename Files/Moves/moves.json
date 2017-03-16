@@ -1,0 +1,44 @@
+{
+  "moves": [
+    {
+      "move": "caccca"
+    },
+    {
+      "move": "rotate"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "rotate"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "forward"
+    },
+    {
+      "move": "rotate"
+    },
+    {
+      "move": "rotate"
+    },
+    {
+      "move": "rotate"
+    },
+    {
+      "move": "forward"
+    }
+
+  ] 
+}

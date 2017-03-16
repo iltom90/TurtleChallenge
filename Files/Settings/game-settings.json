@@ -1,0 +1,35 @@
+{
+  "boardSettings": {
+    "boardColumns": 5,
+    "boardRows": 5
+  },
+  "startPosition": {
+    "posX": 1,
+    "posY": 0,
+    "direction": "north"
+  },
+  "exitPoint": {
+    "posX": 4,
+    "posY": 5
+  },
+  "mines": [
+    {
+      "posX": 1,
+      "posY": 2
+    },
+    {
+      "posX": 4,
+      "posY": 3
+    },
+    {
+      "posX": 5,
+      "posY": 5
+    },
+    {
+       "posX": 2,
+        "posY": 2
+    }
+  ]
+
+ 
+}

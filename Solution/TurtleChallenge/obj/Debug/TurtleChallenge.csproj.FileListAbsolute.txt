@@ -1,0 +1,23 @@
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.pdb
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.exe
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.pdb
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\bin\Debug\Newtonsoft.Json.dll
+c:\users\tom\documents\visual studio 2015\Projects\TurtleChallenge\TurtleChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe.config
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Debug\TurtleChallenge.exe.config
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\obj\Debug\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\obj\Debug\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Debug\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Debug\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\obj\Debug\TurtleChallenge.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.exe.config
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Release\Newtonsoft.Json.dll
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Release\Newtonsoft.Json.xml
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Release\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Release\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Release\TurtleChallenge.exe.config
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\obj\Release\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\obj\Release\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Release\TurtleChallenge.exe
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Release\TurtleChallenge.pdb
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Release\Newtonsoft.Json.dll
+C:\Users\thomas.rainero\Downloads\TurtleChallenge\TurtleChallenge\Solution\TurtleChallenge\bin\Release\Newtonsoft.Json.xml
