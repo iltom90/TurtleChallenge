@@ -8,6 +8,7 @@ turtle.
 ## Prerequisites
 
 .NET Framework 4.6 to exec the application (https://www.microsoft.com/en-US/download/details.aspx?id=48130)
+
 Visual Studio Professional 2015 to open the code solution
 
 ## Launch Application
